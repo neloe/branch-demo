@@ -2,4 +2,4 @@
 
 This is the second commit in master
 
-I'm adding a feature in feature-branch
+I'm adding a feature in feature-branch. Hi world!
